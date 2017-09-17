@@ -1,3 +1,3 @@
-# tienda-angular
+# Tienda con Angular 4
 
-Aqui introducire una tienda de productos hecha en Angular como pruebas personales.
+Codigo de prueba para una tienda en Angular 4
